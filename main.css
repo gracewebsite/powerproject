@@ -1,0 +1,143 @@
+
+		body {
+		background-color: #C0C0C0;}
+		p {
+			font-family: Times New Roman;
+			color: Black;
+			font-size: 20px;}
+		h1 {
+			font-family: Arial Black;
+			float: center;
+			margin: 25px 350px 25px 350px;}
+		img.align-left {
+			float: left;
+			margin-right: 0px auto;}
+		img.align-right {
+			float: right;
+			margin-left: 10px;}
+		img.align-center {
+			display: inline;
+			margin: 0px auto;}
+		img.large {
+			width: 475px;
+			height: 425px;
+			border: 10px groove;
+			border-radius: 5px 5px 5px 5px}
+		img.medium {
+			width: 475px;
+			height: 325px;
+			margin: 10px 20px 10px 20px;
+			border: 5px dashed #2F4F4F;
+			border-radius: 5px 5px 5px 5px;}
+		img.small {
+			width: 300px;
+			height: 250px;}
+		ul { 
+			list-style-type: square;}
+		li {
+			margin: 10px;
+			font-family: Arial;
+			font-size: 16px;
+			font-weight: bold;}
+		div {
+			border: 5px outset;
+			border-radius: 5px 10px 5px 10px;
+			padding: 15px;
+			width: 425px;
+			background-color: #FF7521;
+			font-family: Arial;
+			font-size: 17px;
+			letter-spacing: 0.1em;}
+		div.align-center{
+			float: center;
+			margin: 20px 200px 20px 300px; }
+		div.align-right {
+			float: right;
+			margin: -200px 20px 50px 50px;
+			display: inline;}
+		div.align-left {
+			float: left;
+			margin: 40px 25px 40px 25px;}
+		div.submit {
+			width: 100px;
+			margin: 5px;
+			text-shadow: 2px;}
+		table {
+			width: 800px;
+			float: right;
+			margin: 200px 140px 300px 140px;}
+		th, td { 
+			padding: 15px 15px 15px 15px;}
+		tr {
+			padding: 10px 10px 10px 10px;}
+		tr.even {
+			background-color: #F58135; }
+		th {
+			text-transform: uppercase;
+			letter-spacing: 0.1em;
+			font-size: 90%;
+			border-bottom: 4px solid #EE6912;
+			border-top: 4px solid #EE6912;
+			border-left: 4px solid #EE6912;
+			border-right: 4px solid #EE6912;
+			text-align: left; }
+		tr:hover {
+			background-color: #737070; }
+		input { 
+			font-size: 90%;
+			color: #0000FF;
+			background-color: #8D8B8B;
+			border: 1px solid #7c7875;
+			border-radius: 2px;
+			background-repeat: no-repeat;
+			background-position: 5px 5px;
+			display: block;
+			margin-bottom: 10px; 
+			font-size: 15px;}
+		input:focus {
+			background-color: #FFFFFF;
+			border: 1px solid #EE6912; }
+		fieldset {
+			width: 375px;
+			border: 2px solid #EE6912;
+			border-radius: 10px;
+			padding: 20px;
+			text-align: center; }
+		legend {
+			background-color: #efefef;
+			border: 1px solid #dcdcdc;
+			border-radius: 10px;
+			padding: 10px;
+			text-align: left;
+			text-transform: uppercase; }
+		textarea {
+			height: 10%;
+			width: 75%; }
+		span.submit {
+			float: right;
+			border: 2px solid #03A607;
+			border-radius: 4px;}
+		span.title {
+			font-size: 18px; }
+		label.title { 
+			float: left;
+			padding: 5px;
+			text-align: right; }
+		select {
+			font-size: 18px; }
+		address {
+			float: center;
+			margin: 20px 700px 20px 700px;}
+							
+			
+			
+		
+			
+			
+			
+			
+			
+		
+			
+			
+			
